@@ -29,7 +29,7 @@ body > .container {
 }
 
 body > .container > .image {
-  background-image: url("cat.jpg");
+  background-image: url("Cat.jpg");
   background-size: cover;
   background-position: center;
   border-radius: 10px;
